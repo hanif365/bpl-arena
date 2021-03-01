@@ -22,10 +22,7 @@ const PlayerInfo = (props) => {     // use destructuring below.
                     </div>
                 </div>
             </div>
-
         </div>
-
-
     );
 };
 

@@ -23,7 +23,8 @@ const Players = () => {
             return;                                         // selected the team and thats why we should not select it again.
         }
     }
-                                                            // using bootStrap class to display flex.
+
+    // using bootStrap class to display flex.
     return (
         <div className="container py-5">
             <div className="d-flex justify-content-between">
@@ -43,7 +44,6 @@ const Players = () => {
                 </div>
             </div>
         </div>
-
     );
 };
 
