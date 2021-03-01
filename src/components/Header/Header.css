@@ -1,6 +1,29 @@
-#navbar-section{
-    background: rgba(18, 181, 190, 0.888);
+#navbar-section {
+    background-color: rgba(7, 164, 226, 0.808);
     position: sticky;
     top: 0;
     z-index: 9999;
+    padding: 10px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: 700;
+    transition: all 700ms;
+}
+
+.navbar-brand:hover {
+    color: #fff !important;
+}
+
+.nav-link {
+    /* color: #fff !important; */
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    transition: all 500ms;
+}
+
+.nav-link:hover {
+    color: #fff !important;
 }

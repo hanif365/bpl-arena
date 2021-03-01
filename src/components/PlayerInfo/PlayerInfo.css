@@ -1,9 +1,16 @@
 .card{
     width: 21rem;
     margin: 0 25px 25px 0;
-    /* margin-right: 25px; */
+    cursor: pointer;
+}
+.card-container{
+    opacity: 0.6;
+}
+.card-container:hover{
+    opacity: 1;
 }
 .card img{
     height: 200px;
     width: 100%;
+    
 }

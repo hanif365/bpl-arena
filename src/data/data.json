@@ -31,7 +31,7 @@
   }, {
     "id": 3,
     "name": "Mushfiqur Rahim",
-    "email": "aellicombe2@nymag.com",
+    "email": "mushfiqurrahim@gmail.com",
     "gender": "Male",
     "team": "Beximco Dhaka",
     "images": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
@@ -97,7 +97,7 @@
     "images": "http://www.bssnews.net/wp-content/uploads/2019/07/Mustafizur-Rahman.jpg",
     "nationality": "Bangladeshi",
     "playerTypes": "Baller",
-    "matchPlayed": 7,
+    "matchPlayed": 27,
     "birthday": "4/25/1992",
     "age": "29 years",
     "height": "1.75 m",
@@ -112,7 +112,7 @@
     "images": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/07/23/f6339ceb-f0b1-4f1e-81b0-1053a178825e/Tamim-Iqbal.jpg",
     "nationality": "Bangladeshi",
     "playerTypes": "Batting",
-    "matchPlayed": 7,
+    "matchPlayed": 57,
     "birthday": "4/25/1991",
     "age": "30 years",
     "height": "1.65 m",
@@ -221,6 +221,6 @@
     "birthday": "4/25/1991",
     "age": "30 years",
     "height": "1.85 m",
-    "weight": "5 kg",
+    "weight": "58 kg",
     "bid": 14500000
   }]

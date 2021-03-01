@@ -1,7 +1,12 @@
-.card-body ul{
+.card {
+    width: 21rem;
+}
+
+.card-body ul {
     list-style: none;
     font-weight: 700;
 }
-.card-body ul li ul{
+
+.card-body ul li ul {
     font-weight: 500;
 }
