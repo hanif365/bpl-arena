@@ -1,0 +1,6 @@
+#navbar-section{
+    background: rgba(18, 181, 190, 0.888);
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
